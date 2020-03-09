@@ -3,7 +3,7 @@
 I am a PhD candidate at [CISPA Helmholtz Center for Information Security](https://cispa.saarland).
 
 # Research
-- Coming soon
+- [ASE-2019]: Systematically Covering Input Structure:[pre-print](publications/ase19-preprint.pdf)
 
 # Projects
 - [tribble](https://github.com/havrikov/tribble)
