@@ -5,6 +5,7 @@ I am a PhD candidate at [CISPA Helmholtz Center for Information Security](https:
 You can find my CV [here](assets/cv_havrikov.pdf).
 
 # Research
+- \[FSE-2020\] [When does my Program do this? Learning Circumstances of Software Behavior *(preprint)*](publications/fse2020-preprint.pdf)
 - \[ISSTA-2020\] [Abstracting Failure-Inducing Inputs *(preprint)*](publications/issta2020-preprint.pdf)
 - \[ASE-2019\] [Systematically Covering Input Structure](publications/ase2019_havrikov.pdf)
 - \[CoRR-2018\] [Inputs from Hell: Generating Uncommon Inputs from Common Samples](publications/corr2018_havrikov.pdf)
