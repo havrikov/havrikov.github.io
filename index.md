@@ -6,7 +6,7 @@ You can find my CV [here](assets/cv_havrikov.pdf).
 
 # Research
 - \[ESEC/FSE-2020\] [When does my Program do this? Learning Circumstances of Software Behavior *(preprint)*](publications/fse2020-preprint.pdf)
-- \[ISSTA-2020\] [Abstracting Failure-Inducing Inputs *(preprint)*](publications/issta2020-preprint.pdf)
+- \[ISSTA-2020\] [Abstracting Failure-Inducing Inputs](publications/issta2020_havrikov.pdf)
 - \[TSE-2020\] [Inputs from Hell: Learning Input Distributions for Grammar-Based Test Generation *(preprint)*](publications/tse2020-preprint.pdf)
 - \[ASE-2019\] [Systematically Covering Input Structure](publications/ase2019_havrikov.pdf)
 - \[CoRR-2018\] [Inputs from Hell: Generating Uncommon Inputs from Common Samples](publications/corr2018_havrikov.pdf)
