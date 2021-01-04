@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
 title: Nikolas Havrikov
+layout: default
 logo: assets/Nikolas_Havrikov.jpg
 twitter:
   - username: havrikov
@@ -10,4 +11,3 @@ bio: I am a PhD Candidate at the
   <a href="https://www.cispa.de" target=_blank>CISPA Helmholtz Center for Information Security</a>
   working in the Software Engineering group of [Andreas Zeller](https://andreas-zeller.info/) in Saarbrücken, Germany.
   I enjoy programming, theater, comedy, and doing pushups.
-
