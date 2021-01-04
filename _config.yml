@@ -1,6 +1,8 @@
 theme: jekyll-theme-minimal
 title: Nikolas Havrikov
 logo: assets/Nikolas_Havrikov.jpg
+twitter:
+  - username: havrikov
 social:
   links:
     - https://twitter.com/havrikov
