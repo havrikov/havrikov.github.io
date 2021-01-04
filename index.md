@@ -1,6 +1,7 @@
 # About Me
 
-I am a PhD candidate at [CISPA Helmholtz Center for Information Security](https://cispa.saarland).
+I am currently doing my PhD in software engineering by researching grammar-based fuzzing techniques.
+In short, I want to find out how to generate effective test inputs given a description of their syntax.
 
 You can find my CV [here](assets/cv_havrikov.pdf).
 
@@ -15,5 +16,5 @@ You can find my CV [here](assets/cv_havrikov.pdf).
 - \[FSE-2014\] [XMLMate: Evolutionary XML Test Generation](publications/fse2014_havrikov.pdf)
 
 # Projects
-- [tribble](https://github.com/havrikov/tribble)
-- [xmlmate](https://www.st.cs.uni-saarland.de/testing/xmlmate/)
+- [tribble](https://github.com/havrikov/tribble) is a black-box fuzzer capable of generating inputs from arbitrary context-free grammars.
+- [xmlmate](https://www.st.cs.uni-saarland.de/testing/xmlmate/) is a search-based fuzzer for generating XML files that adhere to a given [XML Schema](https://www.w3.org/standards/xml/schema).
