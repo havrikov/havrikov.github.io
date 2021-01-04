@@ -1,7 +1,11 @@
 # About Me
 
-I am currently doing my PhD in software engineering by researching grammar-based fuzzing techniques.
-In short, I want to find out how to generate effective test inputs given a description of their syntax.
+I am a PhD Candidate at the [CISPA Helmholtz Center for Information Security](https://www.cispa.de) 
+working in the Software Engineering group of [Andreas Zeller](https://andreas-zeller.info/) in Saarbrücken, Germany.
+I enjoy programming, theater, comedy, and doing pushups.
+
+Currently, I am researching grammar-based fuzzing techniques, or in short,
+I want to find out how to generate effective test inputs given a description of their syntax.
 
 You can find my CV [here](assets/cv_havrikov.pdf).
 
