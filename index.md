@@ -21,4 +21,5 @@ You can find my CV [here](assets/cv_havrikov.pdf).
 
 # Projects
 - [tribble](https://github.com/havrikov/tribble) is a black-box fuzzer capable of generating inputs from arbitrary context-free grammars.
+- [mexcounter](https://github.com/havrikov/mexcounter) is a simple Java agent that counts method executions and reports them in a CSV file.
 - [xmlmate](https://www.st.cs.uni-saarland.de/testing/xmlmate/) is a search-based fuzzer for generating XML files that adhere to a given [XML Schema](https://www.w3.org/standards/xml/schema).
