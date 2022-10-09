@@ -1,15 +1,13 @@
 # About Me
 
-I am a PhD Candidate at the [CISPA Helmholtz Center for Information Security](https://www.cispa.de) 
-working in the Software Engineering group of [Andreas Zeller](https://andreas-zeller.info/) in Saarbrücken, Germany.
-I enjoy programming, theater, comedy, and doing pushups.
+I am a Software Engineer working at Google Switzerland on optimizing the performance of Android TV.
 
-Currently, I am researching grammar-based fuzzing techniques, or in short,
-I want to find out how to generate effective test inputs given a description of their syntax.
+I enjoy programming, theater, comedy, and doing pushups.
 
 You can find my CV [here](assets/cv_havrikov.pdf).
 
 # Research
+- \[PhD Dissertation-2021\] [Grammar-Based Fuzzing Using Input Features](publications/phd2021-havrikov.pdf)
 - \[ESEC/FSE-2020\] [When does my Program do this? Learning Circumstances of Software Behavior](publications/fse2020-havrikov.pdf)
 - \[ISSTA-2020\] [Abstracting Failure-Inducing Inputs](publications/issta2020_havrikov.pdf)
 - \[TSE-2020\] [Inputs from Hell: Learning Input Distributions for Grammar-Based Test Generation *(preprint)*](publications/tse2020-preprint.pdf)
